@@ -16,7 +16,8 @@ Zamawiającym jest GlowUp Events Sp. z o.o. (pl. Grunwaldzki 11, Wrocław).
 
 • **Zarządzanie magazynem i zaopatrzeniem:** proces ten opiera się na komunikacji radiowej (krótkofalówki) i ręcznych notatkach. Gdy w danym punkcie gastronomicznym kończy się towar (np. woda), sprzedawca kontaktuje się radiowo z magazynem głównym. Magazynier odszukuje towar, zapisuje wydanie w zeszycie lub arkuszu, a następnie dostarcza go do punktu. Po zakończeniu festiwalu, menedżerowie przez kilka dni ręcznie wprowadzają dane z papierowych raportów i terminali do głównego pliku Excel, aby zbilansować sprzedaż ze stanem magazynowym.
 
-[Aktualny proces biznesowy (festiwal_bpmn.png)]
+![](obluga_zamowien_bpmn.png)
+![](magazynowanie_bpmn.png)
 
 ### 1.2 Wymagania
 
